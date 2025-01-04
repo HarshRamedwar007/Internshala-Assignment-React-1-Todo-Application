@@ -25,8 +25,8 @@ Before running the application, ensure you have the following installed:
 ### **1. Clone the Repository**
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone  https://github.com/HarshRamedwar007/Internshala-Assignment-React-1-Todo-Application.git
+cd your-Internshala-Assignment-React-1-Todo-Application
 
  Install Dependencies
 Install the required dependencies using npm
