@@ -26,11 +26,10 @@ Before running the application, ensure you have the following installed:
 Clone the repository to your local machine:
 ```bash
 git clone  https://github.com/HarshRamedwar007/Internshala-Assignment-React-1-Todo-Application.git
-cd your-Internshala-Assignment-React-1-Todo-Application
+cd Internshala-Assignment-React-1-Todo-Application
 
- Install Dependencies
-Install the required dependencies using npm
-npm install
-npm run dev
+ Install  npm create vite@latest
+Install  cd Internshala-Assignment-React-1-Todo-Application
+npm installnpm run dev
 The application will be available at:
 http://localhost:5173
